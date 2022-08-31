@@ -1,0 +1,25 @@
+*{
+	box-string: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+	font-family: sans-serif;
+	
+}
+
+a{
+	color: red;
+	text-decoration: none;
+	outline: none;
+}
+
+
+
+h2{
+	text-align: center;
+	color: #232323;
+}
+
+
